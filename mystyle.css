@@ -1,0 +1,42 @@
+#about{
+    padding-top: 60px;
+}
+#keyword{
+    color: azure;
+}
+#project_heading{
+    padding-top: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+#project_1_line{
+    padding-top: 30px;  
+}
+.card-body{
+    background: #000;
+    color:rgb(112, 57, 57);
+}
+.navbar {
+    margin-bottom: 0;
+  }
+  
+  /* Navbar text styles */
+  .navbar-text {
+    margin-right: 10px;
+  }
+  
+  /* Media query for small screens */
+  @media (max-width: 576px) {
+    /* Navbar text styles */
+    .navbar-text {
+      margin-right: 0;
+    }
+    
+    /* Navbar toggle button styles */
+    .navbar-toggler {
+      margin-right: 10px;
+    }
+}
+#blogs-content{
+    padding-top: 30px;
+    color: rgb(178, 4, 4);
+}
